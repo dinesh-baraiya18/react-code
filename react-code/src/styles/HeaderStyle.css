@@ -1,0 +1,22 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 5;
+  background-color: #fff;
+}
+
+header .logo-wrapper {
+  max-width: 200px;
+  width: 100%;
+}
+
+header .logo-wrapper img {
+  width: 100%;
+  height: 100%;
+}
+
+section {
+  padding-top: 150px;
+}
